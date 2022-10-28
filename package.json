@@ -1,0 +1,18 @@
+{
+  "name": "SfdxAnonymousApex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node execute"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "csvtojson": "^2.0.10",
+    "fs-extra": "^10.0.0",
+    "jsonexport": "^3.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
